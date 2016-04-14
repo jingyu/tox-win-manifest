@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+     Copyright 2016, Jingyu
+  -->
+
+<manifest>
+
+<!-- We assume this manifest is in the same path as all the libraries. If you are
+     copying this manifest as a template then you probably want the fetch path
+     for this to be '../seL4' instead of '.' -->
+<remote name="Jingyu" fetch="."/>
+
+<default revision="master" remote="Jingyu"/>
+
+<project name="toxcore.git" path="toxcore"/>
+
+<project name="check.git" path="toxcore-deps/check" revision="0.10.0"/>
+<project name="getopt.git" path="toxcore-deps/getopt"/>
+<project name="libconfig.git" path="toxcore-deps/libconfig" revision="v1.6"/>
+<project name="libsodium.git" path="toxcore-deps/libsodium" revision="1.0.10"/>
+<project name="libvpx.git" path="toxcore-deps/libvpx" revision="v1.5.0"/>
+<project name="opus.git" path="toxcore-deps/opus"/>
+<project name="PDCurses.git" path="toxcore-deps/PDCurses" revision="PDCurses_3_4"/>
+<project name="pthreads-w32.git" path="toxcore-deps/pthreads-w32"/>
+
+<project name="uTox.git" path="uTox"/>
+
+<project name="openal-soft.git" path="uTox-deps/openal-soft" revision="openal-soft-1.17.2"/>
+
+</manifest>
+
