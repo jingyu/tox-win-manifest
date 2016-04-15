@@ -15,18 +15,18 @@
 
 <project name="toxcore.git" path="toxcore"/>
 
-<project name="check.git" path="toxcore-deps/check" revision="0.10.0"/>
+<project name="check.git" path="toxcore-deps/check" revision="refs/tags/0.10.0"/>
 <project name="getopt.git" path="toxcore-deps/getopt"/>
-<project name="libconfig.git" path="toxcore-deps/libconfig" revision="v1.6"/>
-<project name="libsodium.git" path="toxcore-deps/libsodium" revision="1.0.10"/>
-<project name="libvpx.git" path="toxcore-deps/libvpx" revision="v1.5.0"/>
+<project name="libconfig.git" path="toxcore-deps/libconfig" revision="refs/tags/v1.6"/>
+<project name="libsodium.git" path="toxcore-deps/libsodium" revision="refs/tags/1.0.10"/>
+<project name="libvpx.git" path="toxcore-deps/libvpx" revision="refs/tags/v1.5.0"/>
 <project name="opus.git" path="toxcore-deps/opus"/>
-<project name="PDCurses.git" path="toxcore-deps/PDCurses" revision="PDCurses_3_4"/>
+<project name="PDCurses.git" path="toxcore-deps/PDCurses" revision="refs/tags/PDCurses_3_4"/>
 <project name="pthreads-w32.git" path="toxcore-deps/pthreads-w32"/>
 
 <project name="uTox.git" path="uTox"/>
 
-<project name="openal-soft.git" path="uTox-deps/openal-soft" revision="openal-soft-1.17.2"/>
+<project name="openal-soft.git" path="uTox-deps/openal-soft" revision="refs/tags/openal-soft-1.17.2"/>
 
 </manifest>
 
