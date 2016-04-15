@@ -17,7 +17,7 @@
 
 <project name="check.git" path="toxcore-deps/check" revision="refs/tags/0.10.0"/>
 <project name="getopt.git" path="toxcore-deps/getopt"/>
-<project name="libconfig.git" path="toxcore-deps/libconfig" revision="refs/tags/v1.6"/>
+<project name="libconfig.git" path="toxcore-deps/libconfig" revision="refs/tags/v1.5"/>
 <project name="libsodium.git" path="toxcore-deps/libsodium" revision="refs/tags/1.0.10"/>
 <project name="libvpx.git" path="toxcore-deps/libvpx" revision="refs/tags/v1.5.0"/>
 <project name="opus.git" path="toxcore-deps/opus"/>
