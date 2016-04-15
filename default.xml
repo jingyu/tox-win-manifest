@@ -28,5 +28,6 @@
 
 <project name="openal-soft.git" path="uTox-deps/openal-soft" revision="refs/tags/openal-soft-1.17.2"/>
 
+<project name="tox-win-vs-projects.git" path="build"/>
 </manifest>
 
