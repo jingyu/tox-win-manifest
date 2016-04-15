@@ -24,7 +24,7 @@
 <project name="PDCurses.git" path="toxcore-deps/PDCurses" revision="refs/tags/PDCurses_3_4"/>
 <project name="pthreads-w32.git" path="toxcore-deps/pthreads-w32"/>
 
-<project name="uTox.git" path="uTox"/>
+<project name="uTox.git" path="uTox" revision="develop"/>
 
 <project name="openal-soft.git" path="uTox-deps/openal-soft" revision="refs/tags/openal-soft-1.17.2"/>
 
